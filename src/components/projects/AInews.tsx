@@ -11,8 +11,8 @@ const FishFresh: React.FC = () => {
           <div className="w-full h-48 overflow-hidden rounded-lg flex items-center justify-center">
             <div className="relative w-full h-full">
               <img
-                src="/img4.jpg"
-                alt="/img4"
+                src="/Img4.jpg"
+                alt="/Img4"
                 className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
