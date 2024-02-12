@@ -20,7 +20,7 @@ export default function Projects(): JSX.Element {
         />
         <Card link="FishFresh" img="img2.jpg" text="Fish Freshness Detection" />
         <Card link="AIEdu" img="img3.jpg" text="AI based Learning Assistant" />
-        <Card link="AInews" img="img4.jpg" text="Quick Bites-AI Generated Short News" />
+        <Card link="AInews" img="Img4.jpg" text="Quick Bites-AI Generated Short News" />
         <Card link="finvest" img="img5.jpg" text="Finvest: Financial Tools For The Underserved" />
         <Card link="TexGen" img="img6.jpg" text="TexGen: Free Placeholder Text Generator " />
 
