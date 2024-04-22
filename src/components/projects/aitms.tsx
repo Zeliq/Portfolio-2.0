@@ -94,6 +94,7 @@ const AITMS: React.FC = () => {
             vehicle, improving response time and traffic flow. This technology
             can make a big difference in saving lives.
           </p>
+          <Link href="https://github.com/Zeliq/Artificially-Intelligent-Traffic-Management-System-AITMS-" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
         </div>
       </div>
     </section>
