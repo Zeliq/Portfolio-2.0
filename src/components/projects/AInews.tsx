@@ -60,7 +60,7 @@ const FishFresh: React.FC = () => {
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
           Navigating the world of news has never been easier. The summaries and images are displayed on a simple and intuitive screen, allowing users to effortlessly stay informed in a visually engaging manner. Join us on this journey to revolutionize news consumption with the perfect blend of AI and simplicity.
           </p>
-          <Link href="/" className="flex font-semibold border p-3 w-32 justify-center mt-7">Goto TexGen</Link>
+          <Link href="https://github.com/Zeliq/Quick-Bites-News" className="flex font-semibold border p-3 w-32 justify-center mt-7">Goto TexGen</Link>
         </div>
       </div>
     </section>
