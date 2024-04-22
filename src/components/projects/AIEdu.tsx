@@ -1,6 +1,7 @@
 // SecondSection.tsx
 import React from "react";
 // import RoundedImage from "./RoundedImage";
+import Link from "next/link";
 
 const AInews: React.FC = () => {
   return (
