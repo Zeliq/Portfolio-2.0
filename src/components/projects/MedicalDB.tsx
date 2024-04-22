@@ -11,8 +11,8 @@ const FishFresh: React.FC = () => {
           <div className="w-full h-48 overflow-hidden rounded-lg flex items-center justify-center">
             <div className="relative w-full h-full">
               <img
-                src="/Img4.jpg"
-                alt="/Img4"
+                src="/img7.jpg"
+                alt="/Img7"
                 className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
@@ -59,7 +59,7 @@ const FishFresh: React.FC = () => {
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
           By centralizing medical records and streamlining information retrieval, the Unified Medical Database revolutionizes emergency response protocols. With reduced time spent searching for critical data, responders can focus on delivering timely care, potentially saving countless lives in the process.
           </p>
-          <Link href="/" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
+          <Link href="https://github.com/Zeliq/Unified-Medical-Database" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
         </div>
       </div>
     </section>
