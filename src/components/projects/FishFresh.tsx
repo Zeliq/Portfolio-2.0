@@ -33,67 +33,35 @@ const FishFresh: React.FC = () => {
         </div>
         <div className="flex flex-col">
           <h3 className="mt-5 font-semibold text-2xl text-white">
-            Ambulance Delays In India, US And Brazil
+            Problem Statement
           </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            In India, According To Recent Data, Up To 30% Of Ambulance Delays
-            Result In Fatalities, With 24,000 Deaths Reported In India Per Day
-            Due To Traffic Jams And Delayed Ambulance Assistance.
+            The fishing industry is one of the most rapidly expanding industries. Fish consumption has increased all over the world. It is critical to maintain quality until the product reaches the consumer.From the catch to the consumer, the quality of a fish can be influenced primarily by handling, processing, and storage processes. The retention duration and storage temperature of post-harvested fish are important elements in maintaining the product's final quality. This study provides an image processing and deep learning method for image segmentation and fish freshness prediction that is totally automatic, efficient, and non-destructive. As soon as the image of the fish is sent to the network, it automatically classifies it as fresh or not fresh. The accuracy of the CNN-based approach to determining fish freshness was around 87.5%. By using a deep learning model, the accuracy increased by up to 100% on the dataset collected.
+          <h3 className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">Revolutionizing Fish Freshness Assessment</h3>
             <br />
             <br />
-            In The United States, A Study Estimated That Every One-minute Delay
-            In Ambulance Arrival Was Associated With A 1.1% Increase In
-            Mortality Risk.
+            Our project pioneers a cutting-edge method leveraging image processing and deep learning techniques to automatically categorize fish as fresh or not. With an astounding accuracy of up to 100% on our meticulously curated dataset, we're reshaping the landscape of fish quality assessment.
             <br />
-            <br />
-            In Brazil, A Study Conducted By The Federal University Of Rio De
-            Janeiro Found That Ambulance Delays Were Associated With The Risk Of
-            Death Increased By 11% For Every 10-minute Delay In Ambulance
-            Arrival.
+    
           </p>
           <br />
           <h3 className="font-semibold mr-5 text-2xl text-white">
-            Negative Impacts of Traffic Jams
+            Harnessing Technological Innovation:
           </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            According To The World Health Organization (Who), Road Traffic
-            Injuries Causes The Death Of A Person Every 26 Seconds.
+            Delving into the technical intricacies, we elucidate the arsenal of software and hardware pivotal to our project's success. From the versatile Visual Studio Code to the robust frameworks of TensorFlow and Keras, our software toolkit ensures precise implementation. Complemented by hardware marvels like the NVIDIA Jetson TX2 and Intel RealSense Cameras, we've crafted a formidable platform poised for real-world application.
             <br />
             <br />
-            An Average IT Engineer Working In Bangalore Spends More Than 1.2
-            Years Of His Life On Traffic Jam.
-            <br />
-            <br />A Study Conducted In Bangalore, India, Estimated That About
-            20,000 Liters Of Fuel Were Wasted Daily Due To Idling Of Vehicles At
-            44 Major Traffic Signals. This Led To An Emission Of 46,800 Kg Of
-            Co2, 1,200 Kg Of Co, 240 Kg Of Hc, And 80 Kg Of Nox Per Day.
           </p>
           <br />
           <h3 className="font-semibold mr-5 text-2xl text-white">
-            Implementation Of Our System
+            Pioneering Progress in the Fishing Industry:
           </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            The Implementation Of Our System Is Done Using Computer Vision, AI
-            And A Group Of Sensors And Cameras On The Traffic Signals. We Take
-            Multiple Parameters Such As The Number Of Pedestrians Waiting, The
-            Traffic Conditions Of The Previous And Next Roads, The Number Of
-            Cars In Each Lane, The Emergency Services, And Many Others Into
-            Account While Determining The Best Possible Decisions. We Centralize
-            All The Real-time Traffic Data And Control Such That Minimum Time Is
-            Spent On Any Traffic Signal And There Is Always A Free-flow.
+           Looking ahead, our study underscores the transformative potential of this technology within the fishing sector. By automating and refining fish quality evaluation processes, we anticipate significant enhancements in efficiency and accuracy. This innovation not only benefits fishermen and suppliers but also ensures consumers receive fresher, higher-quality seafood—a win-win for the entire industry.
           </p>
           <br />
-          <h3 className="font-semibold mr-5 text-2xl text-white">
-            Artificially Intelligent Traffic Control System
-          </h3>
-          <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            Our AI Traffic Control System can detect and respond to emergency
-            vehicles, reduce traffic jams, and save lives. Many people die in
-            India due to delayed ambulance assistance caused by narrow roads and
-            congestion. Our system can quickly clear the way for the emergency
-            vehicle, improving response time and traffic flow. This technology
-            can make a big difference in saving lives.
-          </p>
+
         </div>
       </div>
     </section>
