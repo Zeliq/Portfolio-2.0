@@ -72,6 +72,7 @@ const AInews: React.FC = () => {
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
           Our vision extends beyond mere convenience; we aim to revolutionize education on a global scale. Through the seamless integration of AI technology, we strive to create a learning environment that is not only user-friendly but also fosters a deeper understanding of educational content. Join us in reshaping the future of education with our innovative AI-driven approach.
           </p>
+          <Link href="https://github.com/Zeliq/AI-Learning-Assistant" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
         </div>
       </div>
     </section>
