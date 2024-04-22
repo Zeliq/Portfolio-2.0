@@ -20,7 +20,7 @@ const FishFresh: React.FC = () => {
         </div>
         <div className="flex flex-col w-full">
           <h1 className="mb-4 font-bold text-3xl text-left md:text-4xl lg:text-5xl">
-            {"Quick Bites: Latest News In Under 5 Lines"}
+            {"Unified Medical Database System"}
           </h1>
           <div className="flex w-full items-end justify-end">
             <img
