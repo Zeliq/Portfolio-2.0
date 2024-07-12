@@ -6,7 +6,7 @@ const Stats = () => {
       <div className="flex sm:gap-14 gap-8 justify-center items-center">
         <div className="flex flex-col justify-center items-center">
           <div className="lg:text-7xl md:text-6xl text-5xl font-semibold">
-            6+
+            8+
           </div>
           <p className="lg:text-2xl text-white/50 font-semibold">Projects</p>
         </div>
