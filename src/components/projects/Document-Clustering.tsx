@@ -73,6 +73,8 @@ const Document: React.FC = () => {
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
             With Document Clustering, we're not just redefining how files are stored—we're empowering users to harness the power of AI to create a more organized and efficient digital workspace. Seamlessly organizing files based on their content, our solution sets a new standard in document management, promising simplicity, clarity, and enhanced productivity.
           </p>
+          <Link href="https://github.com/Zeliq/Document-Clustering" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
+
         </div>
       </div>
     </section>
