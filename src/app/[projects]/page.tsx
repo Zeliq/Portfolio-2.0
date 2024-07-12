@@ -7,7 +7,7 @@ import AInews from "@/components/projects/AInews";
 import Finvest from "@/components/projects/finvest";
 import TexGen from "@/components/projects/TexGen";
 import MedicalDB from "@/components/projects/MedicalDB";
-import Document from "@/components/projects/Document";
+import Document from "@/components/projects/Document-Clustering";
 // import UserComponent2 from './UserComponent2';
 // import UserComponent3 from './UserComponent3';
 
