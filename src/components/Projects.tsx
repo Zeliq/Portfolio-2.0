@@ -24,7 +24,7 @@ export default function Projects(): JSX.Element {
         <Card link="finvest" img="img5.jpg" text="Finvest: Financial Tools For The Underserved" />
         <Card link="TexGen" img="img6.jpg" text="TexGen: Free Placeholder Text Generator " />
         <Card link="MedicalDB" img="img7.jpg" text="Unified Medical Database " />
-        <Card link="Document-Clustering" img="img8.jpg" text="Document-Clustering " />
+        <Card link="Document-Clustering" img="img8.jpg" text="Document Clustering: Organize Files Seamlessly " />
 
       </div>
     </div>
