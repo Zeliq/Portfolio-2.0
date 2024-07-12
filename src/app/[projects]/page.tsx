@@ -6,7 +6,8 @@ import AIEdu from "@/components/projects/AIEdu";
 import AInews from "@/components/projects/AInews";
 import Finvest from "@/components/projects/finvest";
 import TexGen from "@/components/projects/TexGen";
-import MedicalDB from "@/components/projects/MedicalDB"
+import MedicalDB from "@/components/projects/MedicalDB";
+import Document from "@/components/projects/Document";
 // import UserComponent2 from './UserComponent2';
 // import UserComponent3 from './UserComponent3';
 
@@ -36,6 +37,8 @@ const Username: React.FC<ProjectProps> = ({ params }: ProjectProps) => {
             return <TexGen />;
       case "MedicalDB":
             return <MedicalDB />;
+      case "Document-Clustering":
+            return <Document />
       default:
         return <div>{projects}</div>;
     }
