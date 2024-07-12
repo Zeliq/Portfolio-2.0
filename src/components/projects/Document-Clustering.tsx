@@ -37,14 +37,14 @@ const Document: React.FC = () => {
             Enhancing File Organization with Document Clustering
           </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            In today's digital age, managing large volumes of documents efficiently can be daunting. Our project, Document Clustering, leverages cutting-edge Natural Language Processing (NLP) and supervised learning techniques to revolutionize file organization. By analyzing the content of each document, our system intelligently categorizes files into folders based on their topics and themes.
+            In today's digital age, managing large volumes of documents efficiently can be daunting. The Document Clustering project, leverages cutting-edge Natural Language Processing (NLP) and supervised learning techniques to revolutionize file organization. By analyzing the content of each document, this system intelligently categorizes files into folders based on their topics and themes.
             <br />
           </p>
           <br />
           <h3 className="font-semibold mr-5 text-2xl text-white">
             Addressing Organizational Challenges </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            Traditional file systems often lead to clutter and inefficiency, making it difficult to locate specific documents quickly. Our AI-powered solution eliminates these challenges by automatically grouping related documents together. This not only simplifies navigation but also enhances productivity by providing a structured and intuitive file management system.
+            Traditional file systems often lead to clutter and inefficiency, making it difficult to locate specific documents quickly. This AI-powered solution eliminates these challenges by automatically grouping related documents together. This not only simplifies navigation but also enhances productivity by providing a structured and intuitive file management system.
             <br />
           </p>
           <br />
@@ -65,14 +65,14 @@ const Document: React.FC = () => {
           <h3 className="font-semibold mr-5 text-2xl text-white">
             Transforming Document Management          </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            Just as our AI Traffic Control System improves emergency response times, Document Clustering revolutionizes document management. It brings order to chaos, ensuring that information is accessible and structured, thereby empowering users with a streamlined approach to managing their digital assets.          
+            The Document Clustering revolutionizes document management. It brings order to chaos, ensuring that information is accessible and structured, thereby empowering users with a streamlined approach to managing their digital assets.          
           </p>
           <br />
           <h3 className="font-semibold mr-5 text-2xl text-white">
             Empowering Users with Intelligent Organization
           </h3>
           <p className="text-white/50 font-medium leading-7 flex mt-5 text-lg md:text-xl">
-            With Document Clustering, we're not just redefining how files are stored—we're empowering users to harness the power of AI to create a more organized and efficient digital workspace. Seamlessly organizing files based on their content, our solution sets a new standard in document management, promising simplicity, clarity, and enhanced productivity.
+            With Document Clustering, we're not just redefining how files are stored—we're empowering users to harness the power of AI to create a more organized and efficient digital workspace. Seamlessly organizing files based on their content, this solution sets a new standard in document management, promising simplicity, clarity, and enhanced productivity.
           </p>
           <Link href="https://github.com/Zeliq/Document-Clustering" className="flex font-semibold border p-3 w-32 justify-center mt-7">View Project</Link>
 
