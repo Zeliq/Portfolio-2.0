@@ -30,7 +30,7 @@ const Hero = () => {
           and development, and Marketing, Product Design and Development.
         </p>
         <Link
-          href="https://drive.google.com/file/d/1xgke9ldYwa6rgEeY6sq3ffMpmR8_IrFE/view?usp=sharing"
+          href="https://drive.google.com/file/d/178Is7JUVctwykVzwQsp3cNWXSCO5-JM-/view?usp=sharing"
           className="md:mt-14 mt-9 font-semibold tracking-wide hover:underline underline-offset-4"
           target="_blank"
         >
