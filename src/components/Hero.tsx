@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="flex flex-col justify-center items-center min-h-[100dvh]">
       <div className="max-w-5xl px-5 flex justify-center items-center flex-col">
         <img
-          src="/zeliq.png"
+          src="/pto.png"
           width={500}
           height={500}
           alt="zeliq"
